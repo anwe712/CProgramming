@@ -1,0 +1,4 @@
+Enum - keyword 
+user defined data type 
+
+enum week {Sunday , Monday , tuesday , wednesday , thruday , friday }

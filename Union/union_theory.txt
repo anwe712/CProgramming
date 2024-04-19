@@ -1,0 +1,11 @@
+user defined data type in C 
+allows us to combine data of diffferent types together
+
+union ex {
+    int a ;
+    int b ;
+
+} x ;
+
+ more memory effiecient 
+ different from structure since it is 
