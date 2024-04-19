@@ -1,0 +1,4 @@
+structure is the user defined data type , which stores diverse information , it is like arrays but , it stores data of different data types 
+
+It allows you to group together variables of different data types under a single name. It's like creating your own custom data type. You define a structure using the struct keyword.
+
